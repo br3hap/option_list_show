@@ -2,7 +2,7 @@
 {
     'name': 'Option_list_show',
     'version': '1.0',
-    'summary': """ Modulo que extiende la funcionalidad de ocultar a usuarios el boton de agregar campos en la vista lista - odoo 18  """,
+    'summary': """ Modulo que extiende la funcionalidad de ocultar a usuarios el boton botón que aparece al final de la cabecera en las vistas tipo lista - odoo 18  """,
     'author': 'Breithner Aquituari',
     'website': '',
     'category': '',
