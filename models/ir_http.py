@@ -7,7 +7,7 @@ from odoo.exceptions import UserError, ValidationError
 _logger = logging.getLogger(__name__)
 
 
-class IrHttp(models.Model):
+class IrHttp(models.AbstractModel):
     _inherit = 'ir.http'
 
     def session_info(self):
