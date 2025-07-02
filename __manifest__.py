@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Option_list_show',
-    'version': '',
-    'summary': """ Option_list_show Summary """,
-    'author': '',
+    'version': '1.0',
+    'summary': """ Modulo que extiende la funcionalidad de ocultar a usuarios el boton de agregar campos en la vista lista - odoo 18  """,
+    'author': 'Breithner Aquituari',
     'website': '',
     'category': '',
     'depends': ['base', ],
