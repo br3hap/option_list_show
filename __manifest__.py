@@ -6,10 +6,16 @@
     'author': 'Breithner Aquituari',
     'website': '',
     'category': '',
-    'depends': ['base', ],
+    'depends': ['base', 'web'],
     "data": [
         "views/res_users_views.xml"
     ],
+
+    'assets': {
+        'web.assets_backend': [
+            'option_list_show/static/src/components/list_renderer/**/*',
+        ]
+    },
     
     'application': True,
     'installable': True,
