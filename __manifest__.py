@@ -7,8 +7,8 @@
     'website': '',
     'category': '',
     'depends': ['base', ],
-    'data': [
-        
+    "data": [
+        "views/res_users_views.xml"
     ],
     
     'application': True,
