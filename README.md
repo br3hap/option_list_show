@@ -28,6 +28,12 @@ El módulo **hereda el template del renderer de lista (`web.ListRenderer`)** y f
 
 Si bien actualmente se basa en usuarios específicos, puedes adaptar fácilmente el código para usar grupos (`res.groups`) si necesitas una segmentación más flexible.
 
+![alt text](static/img/1.png)
+
+![alt text](static/img/2.png)
+
+![alt text](static/img/3.png)
+
 ## 🤝 Contribución
 
 Este módulo nace como una pequeña contribución a la comunidad Odoo, buscando dar soluciones reales a problemáticas frecuentes en la implementación del sistema.
